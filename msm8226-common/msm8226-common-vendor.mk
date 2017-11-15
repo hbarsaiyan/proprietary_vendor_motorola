@@ -205,4 +205,5 @@ PRODUCT_PACKAGES += \
     TimeService \
     qcrilmsgtunnel \
     qcnvitems \
-    qcrilhook
+    qcrilhook \
+    HotwordEnrollmentOKGoogleWCD9340

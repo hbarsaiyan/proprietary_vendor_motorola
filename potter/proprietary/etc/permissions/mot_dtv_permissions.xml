@@ -2,6 +2,6 @@
 <!-- This is the standard set of features for devices that support MobileTV solution. -->
 <permissions>
     <permission name="com.motorola.dtv.permission.ACCESS_DTV">
-        <group gid="mot_dtv" />
+        <group gid="oem_5019" />
     </permission>
 </permissions>

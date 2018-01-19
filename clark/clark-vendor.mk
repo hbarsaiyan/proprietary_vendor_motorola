@@ -37,7 +37,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/clark/proprietary/bin/lowi-server:system/bin/lowi-server \
     vendor/motorola/clark/proprietary/bin/mm-qcamera-daemon:system/bin/mm-qcamera-daemon \
     vendor/motorola/clark/proprietary/bin/motosh:system/bin/motosh \
-    vendor/motorola/clark/proprietary/bin/msm_irqbalance:system/bin/msm_irqbalance \
     vendor/motorola/clark/proprietary/bin/netmgrd:system/bin/netmgrd \
     vendor/motorola/clark/proprietary/bin/pm-proxy:system/bin/pm-proxy \
     vendor/motorola/clark/proprietary/bin/pm-service:system/bin/pm-service \
@@ -194,6 +193,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/clark/proprietary/lib64/libqcomfm_jni.so:system/lib64/libqcomfm_jni.so \
     vendor/motorola/clark/proprietary/lib64/libqmimotext.so:system/lib64/libqmimotext.so \
     vendor/motorola/clark/proprietary/vendor/bin/audioflacapp:system/vendor/bin/audioflacapp \
+    vendor/motorola/clark/proprietary/vendor/bin/msm_irqbalance:system/vendor/bin/msm_irqbalance \
     vendor/motorola/clark/proprietary/vendor/bin/perfd:system/vendor/bin/perfd \
     vendor/motorola/clark/proprietary/vendor/bin/qti:system/vendor/bin/qti \
     vendor/motorola/clark/proprietary/vendor/bin/slim_daemon:system/vendor/bin/slim_daemon \
